@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.pdf
+.venv/
+venv/
+env/
+.env
+
+jogos_backup.json
